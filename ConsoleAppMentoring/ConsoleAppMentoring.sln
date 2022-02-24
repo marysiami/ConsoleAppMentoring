@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppMentoring", "ConsoleAppMentoring.csproj", "{D5E7CEC8-5177-4A5D-ABF9-B64049FF4E93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "..\BuisnessLogic\BusinessLogic.csproj", "{B166930A-A3FD-48F5-9A02-C48DEAD241DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLogic", "..\..\WindowsFormsAppMentoring\BuisnessLogic\BusinessLogic.csproj", "{2765C233-6AD0-459A-A524-A1AB27A4AB49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{D5E7CEC8-5177-4A5D-ABF9-B64049FF4E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5E7CEC8-5177-4A5D-ABF9-B64049FF4E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5E7CEC8-5177-4A5D-ABF9-B64049FF4E93}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B166930A-A3FD-48F5-9A02-C48DEAD241DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B166930A-A3FD-48F5-9A02-C48DEAD241DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B166930A-A3FD-48F5-9A02-C48DEAD241DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B166930A-A3FD-48F5-9A02-C48DEAD241DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2765C233-6AD0-459A-A524-A1AB27A4AB49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2765C233-6AD0-459A-A524-A1AB27A4AB49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2765C233-6AD0-459A-A524-A1AB27A4AB49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2765C233-6AD0-459A-A524-A1AB27A4AB49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
